@@ -23,6 +23,8 @@ jobs:
         library:
           - ''
           - 'vcpkg'
+        vc:
+          - 'vs16'
 
     runs-on: windows-2019
 
